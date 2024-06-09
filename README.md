@@ -50,7 +50,7 @@ WeatherAppReact is a weather application built using the OpenWeatherMap API and 
 - **Public:** Contains public icons.
 - **Assets:** Contains other icons used in the project.
 - **src:**
-  - **App.jsx:** The main file for the React application.
+  - **main.jsx:** The main file for the React application.
   - **index.html:** The HTML file for rendering the page in the browser.
 
 ## Usage
